@@ -1,0 +1,3 @@
+D:\student\semester5\nodeJS\node1\NodejsFileManager\obj\Debug\NodejsFileManager.njsproj.AssemblyReference.cache
+D:\student\semester5\nodeJS\node1\NodejsFileManager\obj\Debug\NodejsFileManager.njsproj.CoreCompileInputs.cache
+D:\student\semester5\nodeJS\node1\NodejsFileManager\bin\Microsoft.NodejsTools.WebRole.dll
