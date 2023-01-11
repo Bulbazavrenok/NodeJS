@@ -12,6 +12,7 @@
 Функціональність застосунку: Отриманння файлів та папок з серверу, вивід, перехід та навігація по отриманим папкам.
 
 Трішки скріншотів:
+
 ![image](https://user-images.githubusercontent.com/98901552/211750143-9349d71d-72d2-4d85-956d-c6299a890c69.png)
 
 ![image](https://user-images.githubusercontent.com/98901552/211750221-b0c8c94b-d3cd-4e2d-a457-86c1ad58f729.png)
